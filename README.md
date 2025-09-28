@@ -3,18 +3,18 @@ A deep dive into Netflix's content and corresponding iMDB ratings for data analy
 
 ## Project Overview
 
--  Explores Netflix’s SaaS subscription model and how content quality impacts churn, retention, and revenue.  
+-  Explores Netflix’s **SaaS subscription** model and how content quality impacts churn, retention, and revenue.  
 - Analyzes IMDb ratings across genres to uncover patterns in user satisfaction and engagement.  
 -  Delivers business-focused recommendations supported by Python analysis, Tableau dashboards, and industry research.
 
 
   ## Project Deliverables
   
-- **Python Jupyter Notebook** → [analysis.ipynb](notebooks/Netflix_Portifolio.ipynb)  
-- **Notebook (HTML Export)** → [analysis.html](notebooks/Netflix_Portifolio.html)  
-- **Business Recommendations Report** → [recommendations.pdf](reports/recommendation.pdf)  
-- **Interactive Dashboard (Tableau)** → [View Dashboard](https://public.tableau.com/shared/M2N53BDWP?:display_count=n&:origin=viz_share_link)  
-- **Reference Paper** → [Netflix Research Paper](reports/paper)  
+- **Python Jupyter Notebook** - [analysis.ipynb](notebooks/Netflix_Portifolio.ipynb)  
+- **Notebook (HTML Export)** - [analysis.html](notebooks/Netflix_Portifolio.html)  
+- **Business Recommendations Report** - [recommendations.pdf](reports/recommendation.pdf)  
+- **Interactive Dashboard (Tableau)** - [View Dashboard](https://public.tableau.com/shared/M2N53BDWP?:display_count=n&:origin=viz_share_link)  
+- **Reference Paper** - [Netflix Research Paper](reports/paper)  
 
 
 ---
@@ -37,9 +37,9 @@ By prioritizing high-quality, multi-season shows and tailoring investment by gen
 
 ## 🛠️ Tools Used  
 
-- **Python (pandas, matplotlib, seaborn)** → Data cleaning & visualization  
-- **Tableau** → Interactive dashboard creation  
-- **MS Word / PDF** → Final recommendations report  
+- **Python (pandas, matplotlib, seaborn)** for Data cleaning & visualization  
+- **Tableau** for Interactive dashboard creation  
+- **MS Word / PDF** for the Final recommendations report  
 
 ---
 
