@@ -22,8 +22,8 @@ A deep dive into Netflix's content and corresponding iMDB ratings for data analy
 ##  ROI (Return on Investment)  
 
 By prioritizing high-quality, multi-season shows and tailoring investment by genre:  
-- **Churn Reduction:** Estimated 2–3% fewer cancellations.  
-- **Revenue Impact:** Potential +$XXM annual revenue (based on churn calculations).  
+- **Churn Reduction:** 
+- **Revenue Impact:**   
 
 ---
 
@@ -35,7 +35,7 @@ By prioritizing high-quality, multi-season shows and tailoring investment by gen
 
 ---
 
-## 🛠️ Tools Used  
+## Tools Used  
 
 - **Excel and Python (pandas, matplotlib, seaborn)** for Data cleaning & visualization  
 - **Tableau** for Interactive dashboard creation  
@@ -43,13 +43,13 @@ By prioritizing high-quality, multi-season shows and tailoring investment by gen
 
 ---
 
-## 📷 Visuals  
+## Visuals  
 
 ![Dashboard Screenshot](visuals/Dashboard.png)  
 
 ---
 
-## 📂 Data
+## Data
 Data was collected from kaggle's website. Csv files included for a deeper dive:
 [Data](Data)
 
