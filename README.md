@@ -37,7 +37,7 @@ By prioritizing high-quality, multi-season shows and tailoring investment by gen
 
 ## 🛠️ Tools Used  
 
-- **Python (pandas, matplotlib, seaborn)** for Data cleaning & visualization  
+- **Excel and Python (pandas, matplotlib, seaborn)** for Data cleaning & visualization  
 - **Tableau** for Interactive dashboard creation  
 - **MS Word / PDF** for the Final recommendations report  
 
@@ -50,5 +50,8 @@ By prioritizing high-quality, multi-season shows and tailoring investment by gen
 ---
 
 ## 📂 Data
+Data was collected from kaggle's website. Csv files included for a deeper dive:
+[Data](Data)
+
 
 
