@@ -1,5 +1,5 @@
 # Netflix Analysis and Business Insights
-A deep dive into Netflix's content and corresponding iMDB ratings for data analysis and business recommendations. 
+A deep dive into Netflix's content and corresponding iMDB ratings using data analytics to improve customer retention and streamline long term revenue.
 
 ## Project Overview
 
@@ -23,8 +23,10 @@ A deep dive into Netflix's content and corresponding iMDB ratings for data analy
 ##  ROI (Return on Investment)  
 
 By prioritizing high-quality, multi-season shows and tailoring investment by genre:  
-- **Churn Reduction:** 
-- **Revenue Impact:**   
+- **Churn Reduction:** Churn Rate=Subscribers at StartSubscribers Lost​×100
+- **Revenue Impact:**   Revenue=Subscribers×Average Subscription Price×12
+- Even a 1% reduction in churn can retain roughly $450M in annual revenue.
+
 
 ---
 
@@ -36,17 +38,18 @@ By prioritizing high-quality, multi-season shows and tailoring investment by gen
 
 ---
 
+## Visuals  
+
+![Dashboard Screenshot](visuals/Dashboard.png)  
+
+---
+
+
 ## Tools Used  
 
 - **Excel and Python (pandas, matplotlib, seaborn)** for Data cleaning & visualization  
 - **Tableau** for Interactive dashboard creation  
 - **MS Word / PDF** for the Final recommendations report  
-
----
-
-## Visuals  
-
-![Dashboard Screenshot](visuals/Dashboard.png)  
 
 ---
 
