@@ -12,8 +12,8 @@ A deep dive into Netflix's content and corresponding iMDB ratings using data ana
   
 - **Python Jupyter Notebook** - [analysis.ipynb](notebooks/Netflix_Portifolio.ipynb)  
 - **Notebook (HTML Export)** - [analysis.html](notebooks/Netflix_Portifolio.html)
-- **In Depth Analysis (Powerpoint)** - [Imdb_Netflix_Analysis.pptx](reports/Imdb_Netflix_Analysis.pptx)
-- **Business Recommendations Report** - [recommendations.pdf](reports/recommendation.pdf)  
+- **In Depth Analysis (Powerpoint)** - [Imdb_Netflix_Analysis](reports/Imdb_Netflix_Analysis.pptx)
+- **Business Recommendations Report** - [recommendations](reports/recommendation.pdf)  
 - **Interactive Dashboard (Tableau)** - [View Dashboard](https://public.tableau.com/shared/M2N53BDWP?:display_count=n&:origin=viz_share_link)  
 - **Reference Paper** - [Netflix Research Paper](reports/paper)  
 
@@ -23,7 +23,7 @@ A deep dive into Netflix's content and corresponding iMDB ratings using data ana
 ##  ROI (Return on Investment)  
 
 By prioritizing high-quality, multi-season shows and tailoring investment by genre:  
-- **Churn Reduction and Revenue Impact:** [Netflix_ROI.pdf](reports/Netflix_ROI.pdf)
+- **Churn Reduction and Revenue Impact:** [Netflix_ROI](reports/Netflix_ROI.pdf)
 - Just recovering that 1% churn (or preventing it) could translate to ~$540 million in retained revenue per year — using real-scale numbers.
 
 
