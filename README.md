@@ -23,7 +23,7 @@ A deep dive into Netflix's content and corresponding iMDB ratings using data ana
 ##  ROI (Return on Investment)  
 
 By prioritizing high-quality, multi-season shows and tailoring investment by genre:  
-- **Churn Reduction and Revenue Impact:** [Netflix_ROI](reports/Netflix_ROI)
+- **Churn Reduction and Revenue Impact:** [Netflix_ROI.pdf](reports/Netflix_ROI.pdf)
 - Just recovering that 1% churn (or preventing it) could translate to ~$540 million in retained revenue per year — using real-scale numbers.
 
 
