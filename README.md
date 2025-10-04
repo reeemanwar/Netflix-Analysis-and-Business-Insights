@@ -23,8 +23,8 @@ A deep dive into Netflix's content and corresponding iMDB ratings using data ana
 ##  ROI (Return on Investment)  
 
 By prioritizing high-quality, multi-season shows and tailoring investment by genre:  
-- **Churn Reduction:** Churn Rate=Subscribers at StartSubscribers Lost​×100
-- **Revenue Impact:**   Revenue=Subscribers×Average Subscription Price×12
+- **Churn Reduction:** 
+- **Revenue Impact:**   
 - Even a 1% reduction in churn can retain roughly $450M in annual revenue.
 
 
