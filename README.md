@@ -12,8 +12,8 @@ A deep dive into Netflix's content and corresponding iMDB ratings using data ana
   
 - **Python Jupyter Notebook** - [Analysis.ipynb](notebooks/Netflix_Portifolio.ipynb)  
 - **Notebook (HTML Export)** - [Analysis.html](notebooks/Netflix_Portifolio.html)
-- **In Depth Analysis (Powerpoint)** - [InDepthAnalysis](reports/NetflixAnalysis.pdf)
-- **Business Recommendations Report** - [Recommendations](reports/recommendation.pdf)  
+- **In Depth Analysis (Powerpoint)** - [Analysis Report](reports/NetflixAnalysis.pdf)
+- **Business Recommendations Report** - [Recommendations Report](reports/recommendation.pdf)  
 - **Interactive Dashboard (Tableau)** - [View Dashboard](https://public.tableau.com/shared/M2N53BDWP?:display_count=n&:origin=viz_share_link)  
 - **Reference Paper** - [Netflix Research Paper](reports/paper)  
 
